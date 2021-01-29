@@ -110,7 +110,11 @@ class prankCall{
 }
 
 echo "*---------- Hassan Al-Hassani ----------*\n GitHub: https://github.com/HassanSunbah\n E-mail: Hassan@HassanDesign.rf.gd\n*---------------------------------------*\n";
-echo "Phone Number: ";
+echo "Phone Number: ";+201090012794
+
+
+
+
 $number = enter();
 $number = new prankCall($number);
 $number->run();
